@@ -51,3 +51,6 @@ Compatibility can vary depending on the application's capture method and setting
 
 # Stream Proof Showcase
 <img width="1279" height="531" alt="StreamProofexample" src="https://github.com/user-attachments/assets/90802cd2-a3c2-4e0a-bc41-488729d79884" />
+
+- Discord server: https://discord.gg/Mkcta6ZGCx
+- Discord username: "drumman." shoot me a text if you need anything.
