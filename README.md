@@ -1,12 +1,12 @@
 # Roblox: Stream proof ESP
 
-A Roblox ESP project that uses a Lua data collector with an external C++ overlay.
+A Roblox ESP project that uses a Lua data collector with an external overlay.
 
 ## How It Works
 
 The Lua script collects player data and writes it to a file.
 
-The external C++ application reads that data and renders the ESP through an external overlay.
+The external application reads that data and renders the ESP through an external overlay.
 
 ## Usage
 
