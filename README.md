@@ -10,8 +10,9 @@ The external application reads that data and renders the ESP through an external
 
 ## Usage
 
-1. Run the external ESP application.
-2. Execute the Lua data collector.
+1. Run the external application
+2. Select your current executors workspace folder.
+3. Execute the Lua data collector.
 
 ## Why use this?
 
