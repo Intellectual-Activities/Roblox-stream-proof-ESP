@@ -15,11 +15,13 @@ The external C++ application reads that data and renders the ESP through an exte
 
 ## Why use this?
 
-Unlike traditional Roblox externals, this project does not rely on Roblox memory offsets for its ESP data. Traditional externals require offsets to be found and updated everytime Roblox updates, which can result in downtime until the external is updated.
+Unlike traditional Roblox externals, this project does not rely on Roblox memory offsets for its ESP data. Traditional externals require offsets to be found and updated every time Roblox updates, which can result in downtime until the external is updated.
 
-This project instead uses an internal Lua data collector to provide the information needed by the external C++ renderer. This means the ESP itself is not dependent on Roblox offsets and should require little to no maintenance across Roblox updates.
+This project instead uses an internal Lua data collector to provide the information needed by the external renderer. This means the ESP itself is not dependent on Roblox offsets and should require little to no maintenance across Roblox updates.
 
-The hybrid approach also allows the project to combine external rendering with functionality normally only implemented through Internal cheats. Future versions could expand beyond ESP into a complete external style interface controlling internal features such as autofarming, kill aura, Remote vulnerabilities, and other features which REAL externals cannot replicate all while being stream proof.
+The hybrid approach also allows the project to combine external rendering with functionality normally only implemented through internal cheats. Future versions could expand beyond ESP into a complete external style interface controlling internal features such as autofarming, kill aura, remote vulnerabilities, and other features that real externals cannot replicate, all while remaining stream proof.
+
+You basically get the best of both worlds: the external side provides a more discreet ESP implementation, while the internal side allows for more blatant and game specific features, such as those listed above.
 
 ## What does stream proof mean?
 
