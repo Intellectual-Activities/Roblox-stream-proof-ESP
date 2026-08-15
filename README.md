@@ -45,4 +45,6 @@ Compatibility can vary depending on the application's capture method and setting
 
 - The Lua collector and external application must both be running for the ESP to update correctly.
 
+
+# Stream Proof Showcase
 <img width="1279" height="531" alt="StreamProofexample" src="https://github.com/user-attachments/assets/90802cd2-a3c2-4e0a-bc41-488729d79884" />
