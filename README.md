@@ -6,11 +6,11 @@ A Roblox ESP project that uses a Lua data collector with an external overlay.
 
 The Lua script collects player data and writes it to a file.
 
-The external application reads that data and renders the ESP through an external overlay.
+The visual overlay reads that data and renders the ESP through an external overlay.
 
 ## Usage
 
-1. Run the external application
+1. Run the visual overlay.exe
 2. Select your current executors workspace folder.
 3. Execute the Lua data collector.
 
@@ -46,7 +46,7 @@ Compatibility can vary depending on the application's capture method and setting
 
 ## Notes
 
-- The Lua collector and external application must both be running for the ESP to update correctly.
+- The Lua collector and visual overlay.exe must both be running for the ESP to update correctly.
 - Unfortunately this only supports PC **[ Mac book not tested ]**
 
 # Stream Proof Showcase
